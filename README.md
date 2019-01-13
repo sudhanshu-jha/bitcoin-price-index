@@ -1,3 +1,8 @@
+# Bitcoin-price-index 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/cef606cd1ddc4b14bd02e9e1167ea9ee)](https://www.codacy.com/app/sudhanshu-jha/bitcoin-price-index?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=sudhanshu-jha/bitcoin-price-index&amp;utm_campaign=Badge_Grade)
+[![Build Status](https://travis-ci.com/sudhanshu-jha/bitcoin-price-index.svg?branch=master)](https://travis-ci.com/sudhanshu-jha/bitcoin-price-index)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
